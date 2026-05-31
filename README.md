@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,go,js,ts,php,vue,angular,html,css,postgres,mysql,docker,linux,git,github" />
