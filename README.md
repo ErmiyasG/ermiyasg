@@ -17,5 +17,3 @@
 <p align="center">
 <b>Also:</b> • Microservices • Spring Security • Spring MVC • Vert.x • RabbitMQ • SMPP • Jasmin SMS Gateway • RBAC • Multi-Tenant Systems
 </p>
-
----
