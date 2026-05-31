@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=ermiyasg&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ermiyasg&theme=github-dark&hide_border=true" />
+</p>
+
 ---
 
 ### 🛠️ Skills
@@ -15,7 +19,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ermiyasg&theme=github-dark&hide_border=true" />
-</p>
