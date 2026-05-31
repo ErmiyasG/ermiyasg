@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 Java & Spring Boot • 🏦 CBS Integrations • 📊 ERP Systems • 🏗️ Scalable Backend Services
+💻 Java & Spring Boot • 🏦 CBS Integrations • 📊 ERP Systems • 🏗️ Backend Services
 </p>
 
 ---
@@ -25,6 +25,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ermiyasg&show_icons=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ermiyasg&layout=compact&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=ermiyasg&theme=github-dark&hide_border=true" />
 </p>
