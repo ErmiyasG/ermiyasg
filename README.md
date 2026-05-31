@@ -1,6 +1,4 @@
-<h3 align="center">Software Engineer</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ermiyasg&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -17,8 +15,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ermiyasg&theme=github-dark&hide_border=true" />
