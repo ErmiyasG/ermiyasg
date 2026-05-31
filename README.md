@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Backend Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ermiyasg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 A Software Engineer with 4+ years of experience building enterprise applications, financial systems, and backend services.
